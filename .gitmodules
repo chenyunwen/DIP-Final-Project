@@ -7,3 +7,6 @@
 [submodule "PyTorch-Multi-Style-Transfer"]
 	path = PyTorch-Multi-Style-Transfer
 	url = https://github.com/chenyunwen/PyTorch-Multi-Style-Transfer.git
+[submodule "reconet-torch"]
+	path = reconet-torch
+	url = https://github.com/chenyunwen/reconet-torch.git
