@@ -1,3 +1,6 @@
 [submodule "Perceptual_loss_for_real_time_style_transfer"]
 	path = Perceptual_loss_for_real_time_style_transfer
 	url = https://github.com/chenyunwen/Perceptual_loss_for_real_time_style_transfer.git
+[submodule "a-neural-algorithm-of-artistic-style"]
+	path = a-neural-algorithm-of-artistic-style
+	url = https://github.com/chenyunwen/a-neural-algorithm-of-artistic-style.git
