@@ -4,3 +4,6 @@
 [submodule "a-neural-algorithm-of-artistic-style"]
 	path = a-neural-algorithm-of-artistic-style
 	url = https://github.com/chenyunwen/a-neural-algorithm-of-artistic-style.git
+[submodule "PyTorch-Multi-Style-Transfer"]
+	path = PyTorch-Multi-Style-Transfer
+	url = https://github.com/chenyunwen/PyTorch-Multi-Style-Transfer.git
