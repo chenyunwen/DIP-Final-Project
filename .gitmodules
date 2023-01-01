@@ -10,3 +10,6 @@
 [submodule "reconet-torch"]
 	path = reconet-torch
 	url = https://github.com/chenyunwen/reconet-torch.git
+[submodule "ReReVST-UX-Wrapper"]
+	path = ReReVST-UX-Wrapper
+	url = https://github.com/chenyunwen/ReReVST-UX-Wrapper.git
