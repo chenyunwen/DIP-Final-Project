@@ -9,5 +9,7 @@
 
 ## Description
 This repository contains five different repositories, using five different methods for style transfer.
+
 For all repositories, we have run them with some modifications.
+
 `README.md` are included respectively for some explanation.
