@@ -13,3 +13,6 @@
 [submodule "ReReVST-UX-Wrapper"]
 	path = ReReVST-UX-Wrapper
 	url = https://github.com/chenyunwen/ReReVST-UX-Wrapper.git
+[submodule "DIPServer2"]
+	path = DIPServer2
+	url = https://github.com/YenYu-Tung/DIPServer2.git
