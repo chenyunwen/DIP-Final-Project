@@ -13,3 +13,5 @@ This repository contains five different repositories, using five different metho
 For all repositories, we have run them with some modifications.
 
 `README.md` are included respectively for some explanation.
+
+More details are provided in  `report.pdf`.
