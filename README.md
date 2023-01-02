@@ -16,4 +16,4 @@ For all repositories, we have run them with some modifications.
 
 More details are provided in  `report.pdf`.
 
-The gradio files provided in `DIPServer2`.
+The gradio files provided in `DIPServer2/`.
