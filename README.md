@@ -1,13 +1,16 @@
 # DIP-Final-Project
 
 ## Members
-符嘉文 R10944057
+- 符嘉文 R10944057
+
 Code implementation Code modification, PPT 製作, Report 製作
 
-陳允玟 R11922051
+- 陳允玟 R11922051
+
 Code implementation, Code modification, Code 統整
 
-童嬿瑜 B09902031
+- 童嬿瑜 B09902031
+
 Code implementation, Gradio interface implementation
 
 ## Description
